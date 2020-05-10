@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import "swift_log_ObjC-Swift.h"
+#import "swift_log_objc-Swift.h"
 
 
 typedef NS_ENUM(NSInteger, LogLevel)

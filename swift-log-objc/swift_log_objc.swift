@@ -1,3 +1,11 @@
+//
+//  swift_log_objc.swift
+//  swift-log-objc
+//
+//  Created by sri-7348 on 5/10/20.
+//  Copyright © 2020 Nikhi. All rights reserved.
+//
+
 import Logging
 import Foundation
 
@@ -41,5 +49,3 @@ import Foundation
         logger.error(log)
     }
 }
-
-
