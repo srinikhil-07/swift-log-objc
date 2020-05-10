@@ -49,6 +49,6 @@ Feel free to contribute to this project.
 MIT
 
 ## Contact
-[Nikhil]: https://twitter.com/nikhil38036647/
+[Nikhil]: https://twitter.com/nikhil38036647
 
  
